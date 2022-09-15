@@ -5,7 +5,7 @@ As a result, I built a custom commission calculator that incorporated these idea
 
 ## Overview & Functionality
 <p float="left">
-<img src="https://user-images.githubusercontent.com/108420692/190512865-9a14f55f-e6ea-49b2-95cf-0047041f172b.PNG" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/108420692/190513400-af47436d-3f4a-41a8-84f8-925f6af520f3.PNG" width=25% height=25%>
 <img src="https://user-images.githubusercontent.com/108420692/190512924-71da37d7-a7ef-4495-8393-80ffc01c7499.PNG" width=25% height=25%>
 <img src="https://user-images.githubusercontent.com/108420692/190512958-f7abcefb-d3b5-436e-99d0-69849a28c778.PNG" width=25% height=25%>
 </p>
