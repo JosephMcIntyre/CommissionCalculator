@@ -29,12 +29,15 @@ As a result, I built a custom commission calculator that incorporated these idea
 **Order**
 - Attributes used to sort orders include order number, selling day (when order was created), Order Status (enum), and Payout Status (enum).
 - Attributes used for order data include phones sold, tablets sold, accessory revenue, home internet, and more.
+
 **MonthData**
 - Parent Entity to order. Used to filter orders based on payout status, selling day.
 - Contains attributes used for chargeback data.
+
 **Profile**
 - Attributes include quota, amount of selling days, PTO for quota relief, and full-time status
 - Used to calculate an adjusted quota.
+
 **Goals Tab / Computed Values**
 - Used functions to compute most properties
 - Commission Section: 
