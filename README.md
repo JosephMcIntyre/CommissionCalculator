@@ -4,7 +4,17 @@ An order tracker, commission calculator, and performance estimator, built in one
 As a result, I built a custom commission calculator that incorporated these ideas for myself and teammates to personally use.
 
 ## Overview & Functionality
- 
+<p float="left">
+<img src="https://user-images.githubusercontent.com/108420692/190512865-9a14f55f-e6ea-49b2-95cf-0047041f172b.PNG" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/108420692/190512924-71da37d7-a7ef-4495-8393-80ffc01c7499.PNG" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/108420692/190512958-f7abcefb-d3b5-436e-99d0-69849a28c778.PNG" width=25% height=25%>
+</p>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/108420692/190513021-9309291e-2c56-4148-8f21-6827cff1c961.PNG" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/108420692/190513043-411d19f9-816d-4f0a-baa9-1c8b5faae78e.PNG" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/108420692/190513069-c2933fab-8208-4821-8544-223e629b5aa7.PNG" width=25% height=25%>
+</p>
+
 - Basic CRUD operations for manipulating orders
 - Workday tab: summary of all orders in current selected workday.
 - Tracker tab: summary of all orders in user history. Includes navigation to current month sales, last month sales, next month sales, and chargebacks (returned sales)
